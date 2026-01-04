@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1B2127&customColorList=1,2,3,4&height=250&section=header&text=%20&fontSize=90&animation=fadeIn" width="100%" />
-  
-  <p align="center" style="margin-top: -150px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=42FF7B&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Urooj+Kiyani;AI+%26+Python+Developer;Passionate+Learner+🌱" />
-  </p>
-</p>
+# <p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42FF7B&background=1B2127&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Urooj+Kiyani;AI+%26+Python+Developer;Passionate+Learner+🌱" alt="Typing SVG" /> </p>
 # 💫 About Me:
 About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, and AI<br><br>🫱 I’m looking to collaborate on small AI and programming projects<br><br>🤝 I’m looking for help with learning advanced AI concepts and improving my coding skills<br><br>🌱 I’m currently learning Python libraries for AI, C++ algorithms, and machine learning basics<br><br>💬 Ask me about Python, C++, AI, or fun programming challenges<br><br>⚡ Fun fact: I love solving coding puzzles in my free time
 
