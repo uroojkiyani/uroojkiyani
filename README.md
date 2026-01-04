@@ -1,8 +1,4 @@
-<h1 align="center">
-  <marquee direction="left" scrollamount="7" width="80%">
-    <span style="color: #F736BC;">Hi there! I'm Urooj Kiyani — Welcome to my Profile! 🚀</span>
-  </marquee>
-</h1>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Urooj+Kiyani;Passionately+Learning+AI+and+Python" alt="Typing SVG" /> </p>
 # 💫 About Me:
 About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, and AI<br><br>🫱 I’m looking to collaborate on small AI and programming projects<br><br>🤝 I’m looking for help with learning advanced AI concepts and improving my coding skills<br><br>🌱 I’m currently learning Python libraries for AI, C++ algorithms, and machine learning basics<br><br>💬 Ask me about Python, C++, AI, or fun programming challenges<br><br>⚡ Fun fact: I love solving coding puzzles in my free time
 
