@@ -21,7 +21,9 @@ About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uroojkiyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uroojkiyani&label=Profile%20Views&color=42FF7B&style=flat-square" alt="Views Counter" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=uroojkiyani&icon=9&color=3)](https://visitcount.itsvg.in)
 
