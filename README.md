@@ -1,6 +1,45 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=42FF7B&background=1B2127&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Urooj+Kiyani;AI+%26+Python+Developer;Passionate+Learner+🌱" alt="Typing SVG" />
+<p align="center">
+  <svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Animated Gradient Background -->
+    <defs>
+      <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%">
+          <animate attributeName="stop-color"
+                   values="#00ffcc;#42ff7b;#00c3ff;#00ffcc"
+                   dur="6s"
+                   repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%">
+          <animate attributeName="stop-color"
+                   values="#00c3ff;#00ffcc;#42ff7b;#00c3ff"
+                   dur="6s"
+                   repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <!-- Moving Background -->
+    <rect width="700" height="120" fill="url(#animatedGradient)">
+      <animate attributeName="x"
+               from="-200"
+               to="0"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Typing Text -->
+    <image
+      href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Urooj+Kiyani;AI+%26+Python+Developer;Passionate+Learner+🌱"
+      x="50"
+      y="10"
+      width="600"
+      height="100"
+    />
+  </svg>
 </p>
+
+
 # 💫 About Me:
 About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, and AI<br><br>🫱 I’m looking to collaborate on small AI and programming projects<br><br>🤝 I’m looking for help with learning advanced AI concepts and improving my coding skills<br><br>🌱 I’m currently learning Python libraries for AI, C++ algorithms, and machine learning basics<br><br>💬 Ask me about Python, C++, AI, or fun programming challenges<br><br>⚡ Fun fact: I love solving coding puzzles in my free time
 
