@@ -14,12 +14,18 @@ About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, 
 ![](https://nirzak-streak-stats.vercel.app/?user=uroojkiyani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uroojkiyani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+### 🕹️ Pac-Man Contributions
+![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uroojkiyani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📈 Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uroojkiyani&theme=radical&area=true&hide_border=false" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uroojkiyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
