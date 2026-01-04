@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=39FF14&height=200&section=header&text=Urooj%20Kiyani&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=AI+%26+Python+Developer;Passionate+Learner+🌱;Welcome+to+my+Creative+Space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Urooj+Kiyani;AI+%26+Python+Developer;Passionate+Learner+🌱" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 # 💫 About Me:
 About Me:<br><br>🔭 I’m currently working on basic projects in Python, C++, and AI<br><br>🫱 I’m looking to collaborate on small AI and programming projects<br><br>🤝 I’m looking for help with learning advanced AI concepts and improving my coding skills<br><br>🌱 I’m currently learning Python libraries for AI, C++ algorithms, and machine learning basics<br><br>💬 Ask me about Python, C++, AI, or fun programming challenges<br><br>⚡ Fun fact: I love solving coding puzzles in my free time
