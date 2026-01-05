@@ -108,12 +108,46 @@
       repeatCount="indefinite" />
   </text>
 
-</svg>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Geometric/White%20Circle.png" width="20" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Geometric/Blue%20Circle.png" width="20" />
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dot 1 -->
+  <circle cx="60" cy="20" r="7" fill="#38B2AC">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 60 60"
+      to="360 60 60"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 2 -->
+  <circle cx="100" cy="60" r="7" fill="#60A5FA">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="120 60 60"
+      to="480 60 60"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Dot 3 -->
+  <circle cx="60" cy="100" r="7" fill="#F472B6">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="240 60 60"
+      to="600 60 60"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+</svg>
 </p>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
