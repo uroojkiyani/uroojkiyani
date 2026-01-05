@@ -50,15 +50,11 @@
          height="45"
          style="border-radius: 12px; margin: 8px;" />
   </a>
+<a href="https://www.linkedin.com/in/urooj-kiyani/">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35"/>
+</a>
 
-  <a href="https://linkedin.com/in/urooj-kiyani" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
-         alt="LinkedIn"
-         width="45"
-         height="45"
-         style="border-radius: 12px; margin: 8px;" />
-  </a>
-
+ 
   <a href="mailto:uroojkiyani030@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          alt="Email"
